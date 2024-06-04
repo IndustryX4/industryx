@@ -1,0 +1,10 @@
+names:
+- hex nut_dataset1
+- cross_dataset2
+- hexa_dataset2
+- slotted_dataset2
+- screw_dataset3
+nc: 5
+test: combined_dataset\images\test
+train: combined_dataset\images\train
+valid: combined_dataset\images\valid
